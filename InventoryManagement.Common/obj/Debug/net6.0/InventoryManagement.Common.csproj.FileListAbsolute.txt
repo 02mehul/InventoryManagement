@@ -1,0 +1,24 @@
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Common\bin\Debug\net6.0\InventoryManagement.Common.deps.json
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Common\bin\Debug\net6.0\InventoryManagement.Common.dll
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Common\bin\Debug\net6.0\InventoryManagement.Common.pdb
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Common\obj\Debug\net6.0\InventoryManagement.Common.csproj.AssemblyReference.cache
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Common\obj\Debug\net6.0\InventoryManagement.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Common\obj\Debug\net6.0\InventoryManagement.Common.AssemblyInfoInputs.cache
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Common\obj\Debug\net6.0\InventoryManagement.Common.AssemblyInfo.cs
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Common\obj\Debug\net6.0\InventoryManagement.Common.csproj.CoreCompileInputs.cache
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Common\obj\Debug\net6.0\InventoryManagement.Common.dll
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Common\obj\Debug\net6.0\refint\InventoryManagement.Common.dll
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Common\obj\Debug\net6.0\InventoryManagement.Common.pdb
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Common\obj\Debug\net6.0\ref\InventoryManagement.Common.dll
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Common\bin\Debug\net6.0\InventoryManagement.Common.deps.json
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Common\bin\Debug\net6.0\InventoryManagement.Common.dll
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Common\bin\Debug\net6.0\InventoryManagement.Common.pdb
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Common\obj\Debug\net6.0\InventoryManagement.Common.csproj.AssemblyReference.cache
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Common\obj\Debug\net6.0\InventoryManagement.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Common\obj\Debug\net6.0\InventoryManagement.Common.AssemblyInfoInputs.cache
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Common\obj\Debug\net6.0\InventoryManagement.Common.AssemblyInfo.cs
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Common\obj\Debug\net6.0\InventoryManagement.Common.csproj.CoreCompileInputs.cache
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Common\obj\Debug\net6.0\InventoryManagement.Common.dll
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Common\obj\Debug\net6.0\refint\InventoryManagement.Common.dll
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Common\obj\Debug\net6.0\InventoryManagement.Common.pdb
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Common\obj\Debug\net6.0\ref\InventoryManagement.Common.dll

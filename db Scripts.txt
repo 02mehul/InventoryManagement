@@ -1,0 +1,50 @@
+create database InventoryAPI
+
+Create table Product(
+	Id UNIQUEIDENTIFIER Primary Key,
+	ProductName Varchar(50),
+	ProductDescription Varchar(250),
+	ProductCateogry Varchar(50),
+	CreatedBy UNIQUEIDENTIFIER not null, 
+	CreatedDate Datetime not null,
+	UpdatedBy UNIQUEIDENTIFIER null,
+	UpdatedDate Datetime null,
+	IsActive bit not null,
+	IsDeleted bit not null
+)
+
+
+Create table Variation(
+	
+	Id UNIQUEIDENTIFIER Primary Key,
+	ProductId UNIQUEIDENTIFIER,
+	ProductSize Varchar(50),
+	ProductColor Varchar(50),
+	ProductPrice Numeric(18,2),
+	ProductStockLevel Numeric(18,2),
+	CreatedBy UNIQUEIDENTIFIER not null, 
+	CreatedDate Datetime not null,
+	UpdatedBy UNIQUEIDENTIFIER null,
+	UpdatedDate Datetime null,
+	IsActive bit not null,
+	IsDeleted bit not null
+)
+
+ALTER TABLE Variation ADD CONSTRAINT FK_Variation_Product FOREIGN KEY (ProductId) REFERENCES Product(Id);
+
+Create table Sales(
+
+	Id UNIQUEIDENTIFIER Primary Key ,
+	VariationId UniqueIdentifier,
+	ProductQuantity Numeric(9),
+	ProductSaledate Datetime,
+	CreatedBy UNIQUEIDENTIFIER not null, 
+	CreatedDate Datetime not null,
+	UpdatedBy UNIQUEIDENTIFIER null,
+	UpdatedDate Datetime null,
+	IsActive bit not null,
+	IsDeleted bit not null
+)
+
+ALTER TABLE Sales ADD CONSTRAINT FK_Sales FOREIGN KEY (VariationId) REFERENCES Variation(Id);
+

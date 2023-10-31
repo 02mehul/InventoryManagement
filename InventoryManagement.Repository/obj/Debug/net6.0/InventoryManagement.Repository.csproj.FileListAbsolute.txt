@@ -1,0 +1,60 @@
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Repository\bin\Debug\net6.0\InventoryManagement.Repository.deps.json
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Repository\bin\Debug\net6.0\InventoryManagement.Repository.dll
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Repository\bin\Debug\net6.0\InventoryManagement.Repository.pdb
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Repository\bin\Debug\net6.0\InventoryManagement.Entity.dll
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Repository\bin\Debug\net6.0\InventoryManagement.Entity.pdb
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.csproj.AssemblyReference.cache
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.AssemblyInfo.cs
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.csproj.CopyComplete
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.dll
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Repository\obj\Debug\net6.0\refint\InventoryManagement.Repository.dll
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.pdb
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management System RESTAPI\InventoryManagement.Repository\obj\Debug\net6.0\ref\InventoryManagement.Repository.dll
+D:\Code\Inventiry Management_30102023\InventoryManagement.Repository\bin\Debug\net6.0\InventoryManagement.Repository.deps.json
+D:\Code\Inventiry Management_30102023\InventoryManagement.Repository\bin\Debug\net6.0\InventoryManagement.Repository.dll
+D:\Code\Inventiry Management_30102023\InventoryManagement.Repository\bin\Debug\net6.0\InventoryManagement.Repository.pdb
+D:\Code\Inventiry Management_30102023\InventoryManagement.Repository\bin\Debug\net6.0\InventoryManagement.Entity.dll
+D:\Code\Inventiry Management_30102023\InventoryManagement.Repository\bin\Debug\net6.0\InventoryManagement.Entity.pdb
+D:\Code\Inventiry Management_30102023\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.csproj.AssemblyReference.cache
+D:\Code\Inventiry Management_30102023\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Inventiry Management_30102023\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.AssemblyInfoInputs.cache
+D:\Code\Inventiry Management_30102023\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.AssemblyInfo.cs
+D:\Code\Inventiry Management_30102023\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.csproj.CoreCompileInputs.cache
+D:\Code\Inventiry Management_30102023\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.csproj.CopyComplete
+D:\Code\Inventiry Management_30102023\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.dll
+D:\Code\Inventiry Management_30102023\InventoryManagement.Repository\obj\Debug\net6.0\refint\InventoryManagement.Repository.dll
+D:\Code\Inventiry Management_30102023\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.pdb
+D:\Code\Inventiry Management_30102023\InventoryManagement.Repository\obj\Debug\net6.0\ref\InventoryManagement.Repository.dll
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management_30102023\InventoryManagement.Repository\bin\Debug\net6.0\InventoryManagement.Repository.deps.json
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management_30102023\InventoryManagement.Repository\bin\Debug\net6.0\InventoryManagement.Repository.dll
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management_30102023\InventoryManagement.Repository\bin\Debug\net6.0\InventoryManagement.Repository.pdb
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management_30102023\InventoryManagement.Repository\bin\Debug\net6.0\InventoryManagement.Entity.dll
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management_30102023\InventoryManagement.Repository\bin\Debug\net6.0\InventoryManagement.Entity.pdb
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management_30102023\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.csproj.AssemblyReference.cache
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management_30102023\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management_30102023\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management_30102023\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.AssemblyInfo.cs
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management_30102023\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management_30102023\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.csproj.CopyComplete
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management_30102023\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.dll
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management_30102023\InventoryManagement.Repository\obj\Debug\net6.0\refint\InventoryManagement.Repository.dll
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management_30102023\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.pdb
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management_30102023\InventoryManagement.Repository\obj\Debug\net6.0\ref\InventoryManagement.Repository.dll
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Repository\bin\Debug\net6.0\InventoryManagement.Repository.deps.json
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Repository\bin\Debug\net6.0\InventoryManagement.Repository.dll
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Repository\bin\Debug\net6.0\InventoryManagement.Repository.pdb
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Repository\bin\Debug\net6.0\InventoryManagement.Entity.dll
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Repository\bin\Debug\net6.0\InventoryManagement.Entity.pdb
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.csproj.AssemblyReference.cache
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.AssemblyInfo.cs
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.csproj.CopyComplete
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.dll
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Repository\obj\Debug\net6.0\refint\InventoryManagement.Repository.dll
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Repository\obj\Debug\net6.0\InventoryManagement.Repository.pdb
+C:\Users\mehul\OneDrive\Desktop\Inventiry Management\InventoryManagement.Repository\obj\Debug\net6.0\ref\InventoryManagement.Repository.dll
